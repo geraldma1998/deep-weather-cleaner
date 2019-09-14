@@ -45,12 +45,6 @@ Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de
 - Training dataset: 190 imagenes.
 - Testing dataset: 10 imagenes.
 
-### Proceso de entrenamiento
-
-Con las siguientes animaciones se puede observar como se fue entrenando el modelo pix2pix para la eliminación de niebla de las imagenes. Como se puede observar, el modelo aprender rápidamente a traducir la imagen a una sin niebla.
-
-![Proceso entrenamiento niebla 1](assets/animation1.gif) ![Proceso entrenamiento niebla 2](assets/animation2.gif)
-
 ### Resultado de las pruebas
 
 A continuación se podrán observar varios casos de pruebas realizados sobre la arquitectura completa. Para cada par de imagenes se tiene que a la izquierda está la imagen de entrada y a la derecha la imagen de salida.
