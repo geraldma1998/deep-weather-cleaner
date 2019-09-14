@@ -45,18 +45,19 @@ Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de
 - Training dataset: 190 imagenes.
 - Testing dataset: 10 imagenes.
 
+### Proceso de entrenamiento
+
+
 ### Resultado de las pruebas
 
-A continuación se podrán observar varios casos de pruebas realizados sobre la arquitectura completa. A la izquierda está la imagen de entrada y a la derecha la imagen de salida.
+A continuación se podrán observar varios casos de pruebas realizados sobre la arquitectura completa. Para cada par de imagenes se tiene que a la izquierda está la imagen de entrada y a la derecha la imagen de salida.
 
-![Caso 1 lluvia](assets/image1.png)
+![Caso 1 lluvia](assets/image1.png) ![Caso 2 lluvia](assets/image2.png)
 
-![Caso 2 lluvia](assets/image2.png)
+![Caso 3 lluvia](assets/image3.png) ![Caso 4 niebla](assets/image4.png)
 
-![Caso 3 lluvia](assets/image3.png)
+![Caso 5 niebla](assets/image5.png) ![Caso 6 niebla](assets/image6.png)
 
-![Caso 4 niebla](assets/image4.png)
+Como se puede observar, hay varias imágenes que tienen buenos resultados, a pesar de ser imágenes nunca antes vistas por el modelo. Estos resultados se podrían mejorar con más datos de entrenamiento y variando algunos hiperparametros.
 
-![Caso 5 niebla](assets/image5.png)
-
-![Caso 6 niebla](assets/image6.png)
+### 
