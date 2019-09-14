@@ -47,6 +47,9 @@ Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de
 
 ### Proceso de entrenamiento
 
+Con las siguientes animaciones se puede observar como se fue entrenando el modelo pix2pix para la eliminación de niebla de las imagenes. Como se puede observar, el modelo aprender rápidamente a traducir la imagen a una sin niebla.
+
+![Proceso entrenamiento niebla 1](assets/animation1.png) ![Proceso entrenamiento niebla 2](assets/animation2.png)
 
 ### Resultado de las pruebas
 
@@ -58,7 +61,7 @@ A continuación se podrán observar varios casos de pruebas realizados sobre la 
 
 ![Caso 5 niebla](assets/image5.png) ![Caso 6 niebla](assets/image6.png)
 
-Como se puede observar, hay varias imágenes que tienen buenos resultados, a pesar de ser imágenes nunca antes vistas por el modelo. Estos resultados se podrían mejorar con más datos de entrenamiento y variando algunos hiperparametros. Por otra parte, se podría implementar la misma idea, pero con la arquitectura pix2pixhd para obtener resultados de mejor calidad.
+Como se puede observar, hay varias imágenes que tienen buenos resultados, a pesar de ser imágenes nunca antes vistas por el modelo. Estos resultados se podrían mejorar con más datos de entrenamiento y variando algunos hiperparametros. Por otra parte, se podría implementar la misma idea, pero con la arquitectura **pix2pixhd** para obtener resultados de mejor calidad.
 
 ### Datos sobre mi
 
