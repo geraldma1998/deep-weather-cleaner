@@ -1,6 +1,6 @@
 # DeepWeatherCleaner
 
-Este proyecto ha sido desarrolado utilizan modelos de deeplearning con el fin de participar en el concurso organizado por el canal de youtube [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
+Este proyecto ha sido desarrollado utilizan modelos de deeplearning con el fin de participar en el concurso organizado por el canal de youtube [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
 
 ## Objetivo:
 
