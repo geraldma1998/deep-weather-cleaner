@@ -24,6 +24,8 @@ En la primera imagen se puede observar como funcionaría de forma interna el alg
 
 Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de la traducción de imagenes. Además, se necesitan menos imagenes de entrenamiento para cada uno de los modelos **pix2pix**, al contrario del caso de utilizar un solo modelo **pix2pix** para intentar eliminar la lluvia y la niebla en un mismo modelo.
 
+El código correspondiente a estos componentes se encuentran dentro de este repositorio, como una referencia a un python note book en google colaboraty.
+
 ### Datos del entrenamiento
 
 #### Clasificador
