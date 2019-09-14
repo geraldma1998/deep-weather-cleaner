@@ -45,3 +45,18 @@ Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de
 - Training dataset: 190 imagenes.
 - Testing dataset: 10 imagenes.
 
+### Resultado de las pruebas
+
+A continuación se podrán observar varios casos de pruebas realizados sobre la arquitectura completa. A la izquierda está la imagen de entrada y a la derecha la imagen de salida.
+
+![Caso 1 lluvia](assets/image1.png)
+
+![Caso 2 lluvia](assets/image2.png)
+
+![Caso 3 lluvia](assets/image3.png)
+
+![Caso 4 niebla](assets/image4.png)
+
+![Caso 5 niebla](assets/image5.png)
+
+![Caso 6 niebla](assets/image6.png)
