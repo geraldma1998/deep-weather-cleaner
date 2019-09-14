@@ -49,7 +49,7 @@ Se implementó de esta forma, debido a que ayuda a simplificar la complejidad de
 
 Con las siguientes animaciones se puede observar como se fue entrenando el modelo pix2pix para la eliminación de niebla de las imagenes. Como se puede observar, el modelo aprender rápidamente a traducir la imagen a una sin niebla.
 
-![Proceso entrenamiento niebla 1](assets/animation1.png) ![Proceso entrenamiento niebla 2](assets/animation2.png)
+![Proceso entrenamiento niebla 1](assets/animation1.gif) ![Proceso entrenamiento niebla 2](assets/animation2.gif)
 
 ### Resultado de las pruebas
 
