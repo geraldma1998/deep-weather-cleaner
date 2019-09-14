@@ -68,3 +68,4 @@ Esta será una lista de datos sobre mi.
 - Correo: geraldma1998@gmail.com
 - Profesión: Estudiante de ingeniería en computación en el Instituto Tecnológico de Costa Rica.
 - Hobby: Uno de mis hobbies es el deeplearning, el cual espero algún día aplicarlo de forma profesional resolviendo problemas de beneficio para la sociedad.
+- Otro: Llevo más de 1 año de ver los videos del canal [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg) los cuales me han ayudado a poder aprender sobre diferentes temas o conceptos de deeplearning de una forma sencilla, a comparación a lo que se ve en diferentes tutoriales referentes a esos temas.
