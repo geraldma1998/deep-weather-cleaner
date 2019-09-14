@@ -8,6 +8,8 @@ Poder remover de imagenes factores climatológicos que pueden dificultar la visi
 
 Actualmente el algoritmo puede remover lluvia y niebla de las imágenes. Para esto, lo que hice fue utilizar un modelo de clasificación que se encarga de determinar si una imagen pertenece a la categoría de neblina o de lluvia. Una vez hecho esto, se cuenta con dos modelos con la arquitectura **pix2pix** entrenados para poder remover el factor ambiental que les corresponde de la imagen. Dependiendo del resultado del modelo **clasificador**, se utilizará uno de los dos modelos **pix2pix**. A continuación se mostrará como funciona de una forma más clara la solución propuesta.
 
+El algoritmo clasificador está conformado por dos capas convolucionales. A la primera capa convolutional se le aplica la función de activación ReLu y a la segunda la función de activación sigmoid. Como resultado de se espera un 0 para neblina o un 1 para lluvia.
+
 ### Arquitectura
 
 Como primer capa se tiene al **clasificador** que se encarga de decir si la imagen de entrada es de niebla o de lluvia. El output del **clasificador** puede ser un 0 que indica que es niebla o un 1 que indica lluvia.
