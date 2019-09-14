@@ -58,6 +58,13 @@ A continuación se podrán observar varios casos de pruebas realizados sobre la 
 
 ![Caso 5 niebla](assets/image5.png) ![Caso 6 niebla](assets/image6.png)
 
-Como se puede observar, hay varias imágenes que tienen buenos resultados, a pesar de ser imágenes nunca antes vistas por el modelo. Estos resultados se podrían mejorar con más datos de entrenamiento y variando algunos hiperparametros.
+Como se puede observar, hay varias imágenes que tienen buenos resultados, a pesar de ser imágenes nunca antes vistas por el modelo. Estos resultados se podrían mejorar con más datos de entrenamiento y variando algunos hiperparametros. Por otra parte, se podría implementar la misma idea, pero con la arquitectura pix2pixhd para obtener resultados de mejor calidad.
 
-### 
+### Datos sobre mi
+
+Esta será una lista de datos sobre mi.
+- Nombre: Gerald Morales Alvarado.
+- País: Costa Rica.
+- Correo: geraldma1998@gmail.com
+- Profesión: Estudiante de ingeniería en computación en el Instituto Tecnológico de Costa Rica.
+- Hobby: Uno de mis hobbies es el deeplearning, el cual espero algún día aplicarlo de forma profesional resolviendo problemas de beneficio para la sociedad.
